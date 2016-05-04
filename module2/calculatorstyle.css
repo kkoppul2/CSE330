@@ -1,0 +1,59 @@
+ul.digits {
+    padding: 0;
+}
+
+ul.digits li {
+    display: inline;
+}
+
+ul.digits li a {
+    background-color: maroon;
+    color: white;
+    padding: 7px 20px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    border-radius: 4px 4px 4px 4px;
+    border: black solid 1px;
+}
+
+ul.digits li a:hover {
+    background-color: orange;
+}
+
+input.number {
+	width:40px;
+	align: right;
+}
+
+ul.operations{
+	list-style-type: none
+}
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
